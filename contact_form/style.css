@@ -1,0 +1,125 @@
+body{
+   height: 400px; 
+   width: 950px;
+   margin: 0 auto;
+}
+.form{
+   width: 90%;
+   margin: 0 auto;
+}
+.conteiner{
+   background-color: #11cfcf;
+   font-size: large;
+   color: #ffffff;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   overflow: auto;
+   width: 800px;
+}
+h1{
+   text-align: center;
+   color: #ffffff;
+}
+.first{
+   width: 50%;
+   float: left;
+   background-color: #11cfcf;
+}
+.name{
+   color: #acacae;
+   background-color: #ffffff;
+   border-radius: 3px;
+   border: none;
+   box-sizing: border-box;
+   width: 83.9%;
+   height: 30px;
+   padding: 20px 10px;
+   margin-bottom: 15px;
+}
+.email{
+   color: #acacae;
+   background-color: #ffffff;
+   border-radius: 3px;
+   border: none;
+   box-sizing: border-box;
+   width: 83.9%;
+   height: 30px;
+   padding: 20px 10px;
+   margin-bottom: 15px;
+}
+.company{
+   color: #acacae;
+   background-color: #ffffff;
+   border-radius: 3px;
+   border: none;
+   box-sizing: border-box;
+   width: 40%;
+   height: 30px;
+   padding: 20px 10px;
+   margin-bottom: 20px;
+   margin: 0px 8px 0px 0px;
+}
+.phone{
+   color: #acacae;
+   background-color: #ffffff;
+   border-radius: 3px;
+   border: none;
+   box-sizing: border-box;
+   width: 40%;
+   height: 30px;
+   padding: 20px 10px;
+   margin-bottom: 15px;
+}
+.message{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: #acacae;
+   background-color: #ffffff;
+   border-radius: 3px;
+   border: none;
+   box-sizing: border-box;
+   width: 83.9%;
+   height: 70px;
+   padding: 15px 10px;
+   margin-bottom: 15px; 
+}
+.button{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: #7f6f09;
+   background-color: #ffea3c;
+   border-radius: 3px;
+   border: none;
+   box-sizing: border-box;
+   width: 40%;
+   height: 30px;
+   padding: 6px 10px;
+   margin-bottom: 30px;
+   margin-left: 158px; 
+}
+.second{
+   background-color: #11cfcf;
+   color: #ffffff;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   float: left;
+   padding: 35px;
+}
+h3{
+   font-weight: 300;
+   font-size: 20px;
+   box-sizing: border-box;
+   padding-inline-start: 31px;
+}
+.sample{
+   font-size: 10px;
+   box-sizing: border-box;
+   padding-inline-start: 31px;
+}
+.yellow{
+   color: yellow;
+   font-size: 10px;
+   box-sizing: border-box;
+   padding-inline-start: 31px;
+}
+.ul{
+   font-size: 10px;
+   box-sizing: border-box;
+   padding-inline-start: 2px;
+}
